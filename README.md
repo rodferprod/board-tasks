@@ -18,4 +18,15 @@ Bem vindo ao board 1, selecione a operação desejada
 8 - Ver card
 9 - Voltar para o menu anterior um card
 10 - Sair
+
+Escolha uma coluna do board Tasks pelo id
+1 - Coluna1 [INITIAL]
+2 - Coluna3 [FINAL]
+3 - Coluna2 [CANCEL]
+1
+Coluna Executar tipo INITIAL
+Card 1 - Separar cadastro de produtos
+Descrição: Administradores poderão criar produtos para mais de uma empresa e clientes apenas para eles mesmos.
+Card 2 - Adicionar mais pontos de referencia
+Descrição: Atualmente o usuario possui apenas uma opcao, sendo necessario adicionar mais pontos de referencia para calcular rotas
 ```

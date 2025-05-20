@@ -1,5 +1,6 @@
 # Task Board via Terminal
 
+```
 Bem vindo ao gerenciador de boards, escolha a opção desejada
 1 - Criar um novo board
 2 - Selecionar um board existente
@@ -17,3 +18,4 @@ Bem vindo ao board 1, selecione a operação desejada
 8 - Ver card
 9 - Voltar para o menu anterior um card
 10 - Sair
+```

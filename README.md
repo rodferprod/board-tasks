@@ -24,7 +24,8 @@ Escolha uma coluna do board Tasks pelo id
 2 - Coluna3 [FINAL]
 3 - Coluna2 [CANCEL]
 1
-Coluna Executar tipo INITIAL
+Coluna: Executar
+tipo: INITIAL
 Card 1 - Separar cadastro de produtos
 Descrição: Administradores poderão criar produtos para mais de uma empresa e clientes apenas para eles mesmos.
 Card 2 - Adicionar mais pontos de referencia
